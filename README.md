@@ -24,7 +24,7 @@ I enjoy turning ideas into real-world digital products and optimizing every line
 ## 🛠️ Tech Stack  
 
 ### 🧩 Frontend  
-`React` · `HTML` · `CSS` · `JavaScript` · `Tailwind CSS` · `Redux` · `Context API`  
+`React` · `React Native` · `HTML` · `CSS` · `JavaScript` · `Tailwind CSS` · `Redux` · `Context API`  
 
 ### 🖥️ Backend  
 `Node.js` · `Express.js` · `REST APIs` · `JWT Authentication` · `Socket.IO`  
